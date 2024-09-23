@@ -1,0 +1,7 @@
+Funções da interface:
+    -cadastrarItem void
+    -removerItem void
+    -pesquisarPorId itemColecao
+    -pesquisarPorCondicao Collection<ItemColecao>
+    -pesquisarPorNome itemColecao
+    -pesquisarPorDataAquisicao Collection<ItemColecao>
